@@ -1,0 +1,23 @@
+Trusted Medical Knowledge Base (For Educational Use Only)
+
+Hemoglobin:
+Hemoglobin is a protein in red blood cells that carries oxygen throughout the body.
+Normal range for adult males is approximately 13.0–17.0 g/dL.
+Normal range for adult females is approximately 12.0–15.0 g/dL.
+Low or high hemoglobin values should be discussed with a qualified doctor.
+
+White Blood Cell (WBC) Count:
+White blood cell count measures the number of white blood cells in the blood.
+Normal range is approximately 4,000–11,000 cells per microliter.
+Abnormal WBC values may indicate infection or inflammation.
+Consult a doctor for interpretation.
+
+Platelet Count:
+Platelets help with blood clotting and prevent excessive bleeding.
+Normal range is approximately 150,000–450,000 per microliter.
+Low or high platelet counts require medical evaluation.
+
+Important Safety Note:
+This information is for educational purposes only.
+This system must not diagnose diseases or recommend medications.
+Always consult a qualified healthcare professional for medical decisions.
